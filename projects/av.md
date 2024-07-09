@@ -1,0 +1,1 @@
+- [ ] get hardware list

@@ -1,1 +1,1 @@
-test
+Central location for storing docs
